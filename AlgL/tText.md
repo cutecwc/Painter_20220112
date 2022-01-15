@@ -1,5 +1,6 @@
 new lists::
 ## 关于如何配置vscode的C++环境：
+https://www.whbwiki.com/335.html
 
 #### 1、获取C/C++扩展
 

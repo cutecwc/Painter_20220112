@@ -1,17 +1,18 @@
 # include<iostream>
 
-class Timus{
-public:
-    void p1_pr1();
-    void p1_pr2();
-};
-
-void Timus::p1_pr2(){
     /*
     2．编写一个C++程序，它要求用户输入一个以long为单位的距离， 然后将它转换为码（一long等于220码）。
     --ASCII码对应于数字和字母的值要熟悉。
     --对应的字符转数字的方法即ASCII-48即可。
     */
+class Timus{
+public:
+    void p1_pr1();
+    void p1_pr2();
+    void solve3();
+};
+
+void Timus::p1_pr2(){
    using namespace std;
    string str="";
    cout<<"输入一个以long为单位的距离：例如1000long；"<<endl;
@@ -45,4 +46,12 @@ void Timus::p1_pr1(){
    string location="大工软院";
    cout<<name<<"\t"<<location<<endl;
    return;
+}
+
+void Timus::solve3(){
+    /*
+    2．编写一个C++程序，它要求用户输入一个以long为单位的距离， 然后将它转换为码（一long等于220码）。
+    --ASCII码对应于数字和字母的值要熟悉。
+    --对应的字符转数字的方法即ASCII-48即可。
+    */
 }

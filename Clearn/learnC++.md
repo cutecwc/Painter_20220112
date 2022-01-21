@@ -4,7 +4,8 @@
 
 ```
 cin.get()
-也可以替换为:#include<windows.h>
+也可以替换为:
+#include<windows.h>
 system("Pause")
 ```
 
@@ -18,3 +19,4 @@ using std::endl;
 using std::cout;
 ```
 
+#### 2、命名习惯

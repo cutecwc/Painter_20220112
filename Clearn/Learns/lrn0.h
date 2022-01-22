@@ -7,6 +7,7 @@
 class T2{
 public:
     void arrloc();
+    void test1();
 };
 
 void T2::arrloc(){

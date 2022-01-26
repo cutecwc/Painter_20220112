@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Timus0test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
     <ClInclude Include="Timus1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Timus704.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

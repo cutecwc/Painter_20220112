@@ -1,3 +1,1 @@
-﻿  Runs.cpp
-C:\StarterDebug\VScode\Painters\Painter_20220112\Amacrs\Amacrs\Timus1.h(40,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  Amacrs.vcxproj -> C:\StarterDebug\VScode\Painters\Painter_20220112\Amacrs\x64\Debug\Amacrs.exe
+﻿  Amacrs.vcxproj -> C:\StarterDebug\VScode\Painters\Painter_20220112\Amacrs\x64\Debug\Amacrs.exe

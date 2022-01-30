@@ -19,9 +19,7 @@ public:
     int v1(vector<int>& nums, int target) {
         /*
         执行用时：24 ms, 在所有 C++ 提交中击败了93.24%的用户
-
         内存消耗：26.8 MB, 在所有 C++ 提交中击败了87.14%的用户
-
         通过测试用例：47 / 47
         */
         int flag = -1;
@@ -91,6 +89,12 @@ public:
         }
         return -1;
     }
+    void v5() {
+        int c1 = 8, c2 = 7, c3 = 0;
+        size_t s1 = 1, s2 = 10, s3 = 0;
+        cout << "nuus is " << c1 << " " << c2 << " " << c2 + (c1 - c2) / 2 << endl;
+        cout << "nuus is " << s1 << " " << s2 << " " << s1 + (s2 - s1) / 2 << endl;
+    }
 };
 
 void test() {
@@ -100,10 +104,15 @@ void test() {
     vector<int> cc = { 1,2,5,6,7,8,9,12,14,17,19,26,29,31 };
     */
     vector<int> cc = { 5 };
+    /*
     int co = 0;
     Solution tt;
     co = tt.v4(cc, -5);
     cout << "ans is " << co << endl;
+    */
+    Solution tt;
+    tt.v5();
+    return;
 }
 
 #endif // !1

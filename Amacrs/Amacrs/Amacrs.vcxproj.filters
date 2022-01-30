@@ -24,6 +24,9 @@
     <ClInclude Include="Timus704.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Timus278.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Runs.cpp">

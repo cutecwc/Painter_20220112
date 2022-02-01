@@ -139,10 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="slts.h" />
     <ClInclude Include="Timus0test.h" />
-    <ClInclude Include="Timus1.h" />
+    <ClInclude Include="Timus189.h" />
     <ClInclude Include="Timus278.h" />
+    <ClInclude Include="Timus35.h" />
     <ClInclude Include="Timus704.h" />
+    <ClInclude Include="TImus977.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Runs.cpp" />

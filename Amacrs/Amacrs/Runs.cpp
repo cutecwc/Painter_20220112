@@ -1,9 +1,9 @@
 #include<iostream>
-#include"Timus278.h"
+#include"Timus189.h"
 
 using namespace std;
 //www.cnblogs.com/grandyang/p/4606334.html
 int main() {
-	run();
+	Trys189();
 	return 0;
 }

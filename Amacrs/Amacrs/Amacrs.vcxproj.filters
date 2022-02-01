@@ -18,13 +18,22 @@
     <ClInclude Include="Timus0test.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Timus1.h">
+    <ClInclude Include="Timus189.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Timus704.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Timus278.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Timus35.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="slts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TImus977.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

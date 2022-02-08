@@ -143,6 +143,7 @@
     <ClInclude Include="Timus0test.h" />
     <ClInclude Include="Timus189.h" />
     <ClInclude Include="Timus278.h" />
+    <ClInclude Include="Timus283.h" />
     <ClInclude Include="Timus35.h" />
     <ClInclude Include="Timus704.h" />
     <ClInclude Include="TImus977.h" />
